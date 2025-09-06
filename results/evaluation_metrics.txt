@@ -1,0 +1,13 @@
+Heart Disease Prediction - Evaluation Metrics
+===========================================
+
+Best Model: Random Forest (GridSearchCV)
+Accuracy   : 0.852
+Precision  : 0.852
+Recall     : 0.821
+F1 Score   : 0.836
+ROC-AUC    : 0.944
+
+Confusion Matrix:
+[[29  4]
+ [ 5 23]]
